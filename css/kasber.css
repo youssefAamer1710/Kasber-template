@@ -40,6 +40,7 @@
 }
 .main-heading p {
     width: 550px;
+    max-width: 100%;
     margin: 0 auto 100px;
     line-height: 2;
     color: #777;
